@@ -1,3 +1,6 @@
+# © 2026 Colin Bond
+# All rights reserved.
+
 from ailib import Payload
 from datetime import datetime
 import requests

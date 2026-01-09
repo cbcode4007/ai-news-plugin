@@ -1,3 +1,6 @@
+# © 2026 Colin Bond
+# All rights reserved.
+
 import os
 import requests
 import json
