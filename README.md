@@ -1,4 +1,4 @@
-## AI News Plugin
+## AI News Report
 
 A small command-line program that delivers accurate news information from Global News upon request, tailored to the exact contents of the question. It is mainly meant to be used as part of the AI Operator framework, which will call it to defer any news-related queries.
 
